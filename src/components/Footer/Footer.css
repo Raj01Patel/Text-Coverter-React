@@ -1,0 +1,45 @@
+.footer {
+    width: 100%;
+    background: #ffffff;
+    text-align: center;
+    padding: 40px;
+    /* border: 2px solid black; */
+    box-shadow: 1px -1px 0px 1px rgba(0,0,0,0.16),
+0px 3px 6px 0px rgba(0,0,0,0.23);
+}
+
+.atag .a:hover {
+    color: gray;
+}
+
+.atag .a {
+    color: black;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.a.active {
+    color: gray;
+    border-bottom: 2px solid black;
+}
+
+.icon {
+    width: 100%;
+}
+
+.icon>div {
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+}
+
+.icon a {
+    font-size: 30px;
+    margin: 0 10px;
+    color: rgb(82, 75, 75);
+}
+
+.icon a:hover {
+    color: black;
+    cursor: pointer;
+}

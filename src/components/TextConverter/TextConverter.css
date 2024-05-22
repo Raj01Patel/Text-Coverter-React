@@ -1,0 +1,72 @@
+.main-container{
+    margin-top: 65px;
+    text-align: center;
+    padding: 20px;
+}
+
+.btn{
+    margin: 10px;
+}
+
+textarea{
+    font-size: 17px;
+    font-weight: 600;
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+textarea:hover{
+    border: 3px solid rgb(162, 162, 244);
+}
+
+.btn button{
+    padding: 10px;
+    margin-left: 10px;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn button:nth-child(1){
+    background-color: #3d86f4;
+}
+
+.btn button:nth-child(2){
+    background-color: #3d86f4;
+}
+
+.btn button:nth-child(3){
+    background-color: #3d86f4;
+}
+
+.btn button:nth-child(4){
+    background-color: #f44b5c;
+}
+
+.btn button:nth-child(5){
+    background-color: #27a96c;
+}
+
+.btn button:nth-child(6){
+    background-color: #27a96c;
+}
+
+.btn button:nth-child(7){
+    background-color: #f44b5c;
+}
+
+
+.summery{
+    padding: 20px;
+}
+.summery p{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.summery h2{
+    margin-bottom: 15px;
+    font-size: 27px;
+}
+
